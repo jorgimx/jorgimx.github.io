@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Shortcuts
-date: 2020-02-21 01:32:24 +0900
+date: 2020-02-21 00:32:24 +0900
 ---
 
 # 苹果快捷指令
