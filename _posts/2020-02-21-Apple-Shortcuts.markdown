@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple Shortcuts"
+title: Apple Shortcuts
 date: 2020-02-21 00:32:24 +0800
 ---
 
