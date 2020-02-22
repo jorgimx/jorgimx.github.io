@@ -57,5 +57,7 @@ date: 2020-02-21 00:32:24 +0800
 
 | 名字  | 链接                                                         | 备注 |
 | :---: | :----------------------------------------------------------- | :--: |
+|   MyDoc    | https://www.icloud.com/shortcuts/c7f2ac2cc6124188bce09bb48e3369d5 |      |
+|   MyApp    | https://www.icloud.com/shortcuts/37c8efcb1f594cbca9c561b61504291e |      |
 | W记账 | [https://www.icloud.com/shortcuts/fed999d0ef5748d8aeb5019e78716e6](https://www.icloud.com/shortcuts/fed999d0ef5748d8aeb5019e78716e65) |      |
 
